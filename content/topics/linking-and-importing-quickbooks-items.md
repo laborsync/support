@@ -4,7 +4,7 @@ Sort: 11
 */
 In order to export time to QuickBooks, Labor Sync employees must be linked with QuickBooks Employees.  Employees and customers can be linked, Added to QuickBooks, or Imported into Labor Sync. You may use the linking and import pages to make assignments all at once. Alternatively, QuickBooks information for individual Employees and Jobs may be managed in the *Employees* and *Jobs* tabs.  Employees and Jobs in Labor Sync may only be linked to one employee or customer in QuickBooks.
 
-1. Make sure you have already [Synchronized with QuickBooks](http://support.laborsync.com/kb/topics/using-the-quickbooks-web-connector).
+1. Make sure you have already [Synchronized with QuickBooks](%base_url%/topics/using-the-quickbooks-web-connector).
 
 2. From the Reports page, click on **Export to QuickBooks** near the reports options.  
 
@@ -25,4 +25,4 @@ In order to export time to QuickBooks, Labor Sync employees must be linked with 
 
 It is good practice to synchronize with the QuickBooks Web Connector after making changes to QuickBooks linking and options within Labor Sync. When your employees and jobs have been linked and synced, you may export time to QuickBooks.  
 
-**Next Step**: [Exporting Time Data to QuickBooks](http://support.laborsync.com/kb/topics/exporting-time-data-to-quickbooks)
+**Next Step**: [Exporting Time Data to QuickBooks](%base_url%/topics/exporting-time-data-to-quickbooks)

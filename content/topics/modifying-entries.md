@@ -2,7 +2,7 @@
 Sort: 4
 */
 Entries may be modified, changing the recorded date and time or the job to which the time is applied.
-Entries which are not followed by another entry cannot be modified, and you cannot change an entry to have occurred before a prior entry or after a subsequent entry.  In order to modify an entry, a user must have permission to make an adjustment.    *To adjust the calculated total time of an entry, see [Managing Adjustments](http://support.laborsync.com/kb/advanced-topics/managing-adjustments)*.
+Entries which are not followed by another entry cannot be modified, and you cannot change an entry to have occurred before a prior entry or after a subsequent entry.  In order to modify an entry, a user must have permission to make an adjustment.    *To adjust the calculated total time of an entry, see [Managing Adjustments](%base_url%/topics/managing-adjustments)*.
 
 ###Making an Modification
 While viewing a detailed report, you can open the modification page by clicking on the Date, Time, or Job fields of an entry. Make the desired changes and click **Submit**.

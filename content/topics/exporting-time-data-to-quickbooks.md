@@ -2,9 +2,9 @@
 Title: Exporting Time Data to QuickBooks
 Sort: 12
 */
-1. Make sure you have already [Synchronized with QuickBooks](http://support.laborsync.com/kb/topics/using-the-quickbooks-web-connector) and [Linked Employees and Jobs with QuickBooks](http://support.laborsync.com/kb/topics/linking-and-importing-quickbooks-items).
+1. Make sure you have already [Synchronized with QuickBooks](%base_url%/topics/using-the-quickbooks-web-connector) and [Linked Employees and Jobs with QuickBooks](%base_url%/topics/linking-and-importing-quickbooks-items).
 
-2. Navigate to a report with time data you would like to export.  For help building reports, see [Custom Reports](http://support.laborsync.com/kb/topics/custom-reports).
+2. Navigate to a report with time data you would like to export.  For help building reports, see [Custom Reports](%base_url%/topics/custom-reports).
 
 3. Once your report is ready, click on **Export to QuickBooks** near the reports options.  
 

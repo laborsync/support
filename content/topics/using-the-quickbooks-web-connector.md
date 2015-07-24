@@ -6,7 +6,7 @@ This guide will walk you through setting up QuickBooks to integrate with Labor S
 
 1. Back up your QuickBooks data file.
 
-2. If you have not done so already, make sure QuickBooks Integration is [enabled for your account](http://support.laborsync.com/kb/topics/enabling-quickbooks-integration-for-your-account).
+2. If you have not done so already, make sure QuickBooks Integration is [enabled for your account](%base_url%/topics/enabling-quickbooks-integration-for-your-account).
 
 3. Download and install the [QuickBooks Web Connector](http://marketplace.intuit.com/webconnector/).
 
@@ -28,4 +28,4 @@ Note: Labor Sync will only synchronize with QuickBooks in single-user mode.  Ple
 
 Once QuickBooks has been synchronized, you can link employees within Labor Sync.  
 
-**Next Step**: [Linking and Importing QuickBooks Items](http://support.laborsync.com/kb/topics/linking-and-importing-quickbooks-items)
+**Next Step**: [Linking and Importing QuickBooks Items](%base_url%/topics/linking-and-importing-quickbooks-items)

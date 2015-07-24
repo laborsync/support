@@ -2,7 +2,7 @@
 Sort: 3
 */
 Batch adjustments allow you to adjust multiple entries based on entered criteria. In order to make a batch adjustment, a user must have permission to make an adjustment.  
-*To learn more about adjustments, see [Managing Adjustments](http://support.laborsync.com/kb/advanced-topics/managing-adjustments)*.
+*To learn more about adjustments, see [Managing Adjustments](%base_url%/topics/managing-adjustments)*.
 
 To make a batch adjustment, open any report and click **Batch Adjustments** in the reports controls.
 

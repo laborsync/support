@@ -5,7 +5,7 @@ Sort: 7
 Labor Sync Reports are how you view your employees' time and location.  Throughout the work day, employees use devices to update the Labor Sync system with their current activity.  This article will introduce you to Labor Sync's powerful and customizable reports.
 
 ### Viewing Reports
-To view reports, log in to the Labor Sync [website](https://www.laborsync.com/login) and click on the **Reports** Tab near the top left of the page. To view Daily or Weekly Reports, select one from the corresponding drop down menus.  The date range of your selection will be displayed above your report for reference.  If you choose to group by job, individual jobs will be broken into sections containing reports for the selected time frame.
+To view reports, log in to the Labor Sync [website](https://app.laborsync.com/login) and click on the **Reports** Tab near the top left of the page. To view Daily or Weekly Reports, select one from the corresponding drop down menus.  The date range of your selection will be displayed above your report for reference.  If you choose to group by job, individual jobs will be broken into sections containing reports for the selected time frame.
 
 ##### Daily Reports
 Daily Timesheets are a quick snapshot of your employee's activity for a selected day.  For each person a First and Last activity are shown, displaying the Activity Type, Time, and Address for both, along with a Total Time and any adjustments to the Total Time. Clicking on an activity will provide you with more detailed information.
@@ -15,7 +15,7 @@ Weekly Hours show you how many hours each employee worked during the selected we
 
 ##### Custom Reports
 You can easily tailor reports to show only the information you need to see.  Simply click on the **Customize Reports** tab at the top right of the report controls to customize the report you're currently viewing or generate a completely new report.  
-*For more information, see [Custom Reports](http://support.laborsync.com/kb/advanced-topics/custom-reports).*  
+*For more information, see [Custom Reports](%base_url%/topics/custom-reports).*  
 
 ### Saved Reports
 Important or frequently viewed reports can be saved for viewing later very easily.  You can save a report for viewing later, and you can also set a report to automatically open when you log into Labor Sync. 

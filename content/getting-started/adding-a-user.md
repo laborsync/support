@@ -4,7 +4,7 @@ Sort: 6
 */
 A user is an administrative person with access to the Labor Sync system.  
 
-1. Log in to the Labor Sync [website](https://www.laborsync.com/login).  
+1. Log in to the Labor Sync [website](https://app.laborsync.com/login).  
 
 3. Click on the **Users** Tab near the top left of the page.  
 
@@ -22,4 +22,4 @@ A user is an administrative person with access to the Labor Sync system.
 
 Once a user is added, an activation email will be sent to the entered email address.  Following the link provided in the email will prompt the user to enter a password.  After the password has been entered, a user may log in using their email address and password.
 
-**Next Step**: [Introduction to Reports](http://support.laborsync.com/kb/getting-started/introduction-to-reports)
+**Next Step**: [Introduction to Reports](%base_url%/getting-started/introduction-to-reports)

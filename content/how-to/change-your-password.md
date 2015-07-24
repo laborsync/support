@@ -1,4 +1,4 @@
-1. Log in to the Labor Sync [website](https://www.laborsync.com/login).  *If you forgot your password, click **Forgot Password**, enter your email address, and proceed to step 5.*
+1. Log in to the Labor Sync [website](https://app.laborsync.com/login).  *If you forgot your password, click **Forgot Password**, enter your email address, and proceed to step 5.*
 
 3. Click on the **Users** Tab near the top left of the page.  
 

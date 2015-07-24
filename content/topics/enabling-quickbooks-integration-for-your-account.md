@@ -12,4 +12,4 @@ Only the user who activates QuickBooks integrations will have full permission to
 
 Once QuickBooks is enabled for your account, you must synchronize using the QuickBooks Web Connector.  
 
-**Next Step**: [Using the QuickBooks Web Connector](http://support.laborsync.com/kb/topics/using-the-quickbooks-web-connector)
+**Next Step**: [Using the QuickBooks Web Connector](%base_url%/topics/using-the-quickbooks-web-connector)

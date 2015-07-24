@@ -2,7 +2,7 @@
 Sort: 2
 */
 Adjustments are changes to the time total of an employee's work period.  Adjustments do not change the recorded time of an action, but the calculated time between actions. Any entry can be adjusted as long as that entry is not a clock out and it is followed by another entry.  In order to make an adjustment, a user must have permission to make an adjustment.  
-*To modify recorded times, see [Modifying Entries](http://support.laborsync.com/kb/advanced-topics/modifying-entries)*.
+*To modify recorded times, see [Modifying Entries](%base_url%/topics/modifying-entries)*.
 
 ###Displaying Adjustments
 While viewing a detailed report, you can view all existing adjustments of an entry time by clicking on the adjustment field (labeled Adj.) next to their name.  The adjustments page displays the original entry at the top, and lists any adjustments below.  

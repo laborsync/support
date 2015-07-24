@@ -2,7 +2,7 @@
 Sort: 1
 */
 #### Do I need to sign up to use Labor Sync?
-Yes.  In order for us to know which devices are yours, you must first sign up and register with us.  Signing up is easy and free for the first 14 days. For help creating an account, see [Creating an Account](http://support.laborsync.com/kb/getting-started/creating-an-account).
+Yes.  In order for us to know which devices are yours, you must first sign up and register with us.  Signing up is easy and free for the first 14 days. For help creating an account, see [Creating an Account](%base_url%/getting-started/creating-an-account).
 #### Is the free trial a limited or restricted version of the system?
 No, you get complete use of the Labor Sync system free of charge for the initial 14 days. After the trial period you can continue your account for only $10 a month per employee, with a minimum of one employee per month.
 #### How does billing per employee work?
