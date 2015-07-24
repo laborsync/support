@@ -12,13 +12,13 @@ In order to export time to QuickBooks, Labor Sync employees must be linked with 
 
 4. After linking or adding Labor Sync jobs and employees to QuickBooks, you may import any QuickBooks customers and employees into Labor Sync.
 
-####  Employees
+###  Employees
   - All linked employees require you to designate whether exported time data will be used for pay checks.
   - Employees may be linked to QuickBooks employees by selecting a name next to the employee.  
   - Adding an employee to QuickBooks requires a unique name. Adding an employee to QuickBooks requires a synchronization for the changes to take effect.
   - Selecting a default payroll wage item will make it easier to export time data for employees whose time is used to create pay checks.
 
-#### Customers
+### Customers
   - Jobs may be linked to QuickBooks customers and jobs by selecting a name next to the job.  
   - Adding a job to QuickBooks as a customer requires a unique name. Adding a job to QuickBooks requires a synchronization for the changes to take effect.  
   - A job may be added as a QuickBooks Job by selecting a parent customer or QuickBooks job.

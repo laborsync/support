@@ -3,9 +3,9 @@ Sort: 8
 */
 Managing entries allows you to view an employee's entire entry history from any date range, and gives you the ability to delete entries from or insert new entries into the employee's entry history. To manage an employee's entries, open any report and click **Manage Entries** in the reports controls.
 
-**Inserting Entries**
+###Inserting Entries
 
-Entries may be inserted anywhere in the entry list by clicking the Insert Entry buttons under the *Action* field. To insert above another entry, click the Insert Entry Above ![Insert Entry Above](https://www.laborsync.com/images/webapp/icons/insert-above.png) button. To insert below another entry, click the Insert Entry Below ![Insert Entry Below](https://www.laborsync.com/images/webapp/icons/insert-below.png) button. This will create a new entry, for which you will need to fill in the Activity, Job, Date, Time and time zone.
+Entries may be inserted anywhere in the entry list by clicking the Insert Entry buttons under the *Action* field. To insert above another entry, click the Insert Entry Above ![Insert Entry Above](https://app.laborsync.com/images/webapp/icons/insert-above.png) button. To insert below another entry, click the Insert Entry Below ![Insert Entry Below](https://app.laborsync.com/images/webapp/icons/insert-below.png) button. This will create a new entry, for which you will need to fill in the Activity, Job, Date, Time and time zone.
 
 * In the Activity field, a Clock In may be followed by a Start Travel or Clock Out; a Start Travel may be followed by a Start Job or a Clock Out; a Start Job may be followed by a Start Travel or a Clock Out; and a Clock Out may only be followed by a Clock In.
 * A Note may be added to the entry. This is optional.
@@ -14,11 +14,11 @@ Entries may be inserted anywhere in the entry list by clicking the Insert Entry 
 
 When you have finished entering data, click the Submit button at the bottom of the page to submit the changes you have made. Or to erase all unsaved changes to the employee's entry history, you may click the **Reset** button at the top of the page.
 
-**Editing Entries**
+###Editing Entries
 
-An existing entry may be edited by clicking the Edit Entry ![Edit Entry](https://www.laborsync.com/images/webapp/icons/pencil.png) button under the *Action* field. When editing an entry, you may change its Note, Job, Date, Time and time zone. The edited date and time must remain valid. You may not change the Activity type.
+An existing entry may be edited by clicking the Edit Entry ![Edit Entry](https://app.laborsync.com/images/webapp/icons/pencil.png) button under the *Action* field. When editing an entry, you may change its Note, Job, Date, Time and time zone. The edited date and time must remain valid. You may not change the Activity type.
 
-**Deleting Entries**
+###Deleting Entries
 
-An entry may be deleted from the employee's entry history by clicking the Delete Entry ![Delete Entry](https://www.laborsync.com/images/webapp/icons/cross-circle.png) button under the *Action* field. This may only be done if the deletion is valid with regards to the entry's Activity type; e.g., you may not delete a Clock Out directly between two Clock Ins.
-If you have not yet submitted your changes and you would like to restore an entry you have marked for deletion, this may be done by clicking the Restore Entry ![Restore Entry](https://www.laborsync.com/images/webapp/icons/revert.png) button.
+An entry may be deleted from the employee's entry history by clicking the Delete Entry ![Delete Entry](https://app.laborsync.com/images/webapp/icons/cross-circle.png) button under the *Action* field. This may only be done if the deletion is valid with regards to the entry's Activity type; e.g., you may not delete a Clock Out directly between two Clock Ins.
+If you have not yet submitted your changes and you would like to restore an entry you have marked for deletion, this may be done by clicking the Restore Entry ![Restore Entry](https://app.laborsync.com/images/webapp/icons/revert.png) button.
