@@ -4,7 +4,7 @@ var config = {
 	site_title: 'Labor Sync Support',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
-	base_url: 'support.laborsync.com',
+	base_url: 'http://support.laborsync.com',
 
 	// Used for the "Get in touch" page footer link
 	support_email: 'support@laborsync.com',
