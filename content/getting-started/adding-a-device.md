@@ -22,7 +22,9 @@ To begin using Labor Sync, you must register a Mobile Device.  Devices are used 
     - Automatic Clock Out allows device specific automated clock out of employees. This option must be enabled under account settings.  You may read more about Automatic Clock-Out in our [knowledge base article](%base_url%/topics/automatic-clock-out).
     - Device Notes provides an optional field for entering any additional information.
     - Automatic Employee PIN configures a device to automatically enter an employee's PIN when Labor Sync is run.  
-    - PIN Lock limits a device to be used by only one employee.  When this setting is enabled, the only employee who can use the Labor Sync software on this device is the employee selected for Automatic Employee PIN.
+    - PIN Lock limits a device to be used by only one employee.  When this setting is enabled, the only employee who can use the Labor Sync software on this device is the employee selected for Automatic Employee PIN.  
+    - PING will track the device continuously throughout the day while an employee is clocked in on that device.
+    - You can skip recording a location when performing entries on the device.
 
 7. Click **Activate Device**.  
 
