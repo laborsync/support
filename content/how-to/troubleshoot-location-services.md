@@ -5,10 +5,10 @@ In the Settings menu, check that Location is turned on with the Mode turned to "
 
 An employee device will experience the full GPS Maximum Wait time if the GPS is disabled (a penalty to discourage your employees from disabling GPS on their phone) or if the phone is unable to acquire any GPS location due to poor signal.  
 ​  
-Full Android details for this can be found [on Google's help page](https://support.google.com/coordinate/answer/2569281?hl=en).
+Full Android details for this can be found [on Google's help page](https://support.google.com/accounts/answer/3467281?hl=en).
 ​
 #### Apple iOS devices
-In Settings under the Privacy menu, click Location Services and make sure that Location Services and the Labor Sync app are enabled.  Full iOS details for this can be on [Apple's support page](https://support.apple.com/en-us/HT201357).  
+In Settings under the Privacy menu, click Location Services and make sure that Location Services and the Labor Sync app are enabled.  Full iOS details for this can be on [Apple's support page](https://support.apple.com/en-us/HT203033).  
 ​
 ##### If Problems Persist
 
