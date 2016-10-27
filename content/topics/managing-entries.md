@@ -34,4 +34,4 @@ Below is an image with each action button used on the entry management page with
 5. Clear Inputs
 6. Restore Entry
 
-![Actions](http://laborync-kb.s3.amazonaws.com/KBAction-01.png)
+![Actions](https://laborync-kb.s3.amazonaws.com/KBAction-01.png)

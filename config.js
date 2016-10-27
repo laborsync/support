@@ -4,13 +4,13 @@ var config = {
 	site_title: 'Labor Sync Support',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
-	base_url: 'http://support.laborsync.com',
+	base_url: 'https://support.laborsync.com',
 
 	// Used for the "Get in touch" page footer link
 	support_email: 'support@laborsync.com',
 
 	// Footer copyright content
-	copyright: 'Copyright &copy; '+ new Date().getFullYear() +' - <a href="http://www.laborsync.com">Labor Sync, LLC</a>',
+	copyright: 'Copyright &copy; '+ new Date().getFullYear() +' - <a href="https://www.laborsync.com">Labor Sync, LLC</a>',
 	// Excerpt length (used in search)
 	excerpt_length: 400,
 
