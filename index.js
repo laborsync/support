@@ -3,6 +3,14 @@ var app = express();
 
 app.set('port', (process.env.PORT || 5000));
 
+app.get('/downloads/clients', function(req, res) {
+  
+  var url = 'http://laborsync.help/downloads/apps';
+  
+  res.redirect(301, url);
+
+});
+
 app.get('*', function(req, res) {
   
   var url = 'http://laborsync.help';
